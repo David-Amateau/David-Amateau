@@ -1,11 +1,10 @@
 
 - 🔭 I’ have just finished a collaborative banking app, check it out below.
-- https://github.com/David-Amateau/CapstoneGroup2/tree/master
+https://github.com/David-Amateau/CapstoneGroup2/tree/master
 
-- 🌱 I’m currently learning more about Spring, React & Design Patterns.
 
 - 📫 How to reach me: Feel free to email or reach out on LinkedIn. 
-- Damateau@gmail.com 
+Damateau@gmail.com 
 
 
 
