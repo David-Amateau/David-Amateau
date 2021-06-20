@@ -1,5 +1,5 @@
 
-- 🔭 I’ have just finished a collaborative banking app, check it out below.
+- 🔭 I’ve been working on full stack banking app.
 https://github.com/David-Amateau/CapstoneGroup2/tree/master
 
 
