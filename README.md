@@ -1,6 +1,6 @@
 
 - 🔭 I’ve been working on full stack banking app.
-https://github.com/David-Amateau/CapstoneGroup2/tree/master
+https://github.com/David-Amateau/CapstoneGroup2
 
 - 🔭 I’ve been working on a Chess Game to eventually build my own variants.
 https://github.com/David-Amateau/MyChessGame
