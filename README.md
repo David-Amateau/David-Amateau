@@ -2,7 +2,7 @@
 
 Hi, I'm David Amateau. 
 
-I am a full stack software developer with a deep love for back-end development with Java & Spring who also works with JavaScript & React for front-end development. As a programmer, I strive for clean, well commented and verbose code to 
+I am a full stack software developer with a deep love for back-end development with Kotlin, Java & Spring who also works with JavaScript & React for front-end development. As a programmer, I strive for clean, well commented and verbose code to 
 maintain readability and flexibility as my projects evolve.
 
 On my github you will find projects I am currently working and notes and examples I've created along my learning journey.  Below you'll find some quick links to check out my most active projects. Please feel free to email me or contact me on LinkedIn if you would like to collaborate on a project or have any questions regarding code on my Github. Happy Coding!
